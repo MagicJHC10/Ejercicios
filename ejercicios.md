@@ -33,6 +33,7 @@ Virtual-->199,9*12=2398,8€
 Si usamos el 1%:
  * Dedicado: No podemos usar solo el 1% --> 1139,88€
  * Virtual: 2389,8*0,01=23,98€
+
 Si usamos el 10%:
  * Dedicado: No podemos usar solo el 10% --> 1139,88€
  * Virtual: 2389*0,1=238,98€

@@ -1,5 +1,5 @@
-### Juan Hernández Cañaveras ###
-### Introducción a la infraestructura virtual: concepto y soporte físico ###
+## Juan Hernández Cañaveras 
+## Introducción a la infraestructura virtual: concepto y soporte físico 
 
 Ejercicio 1:Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. Consultar este artículo en Infoautónomos sobre el tema.
 **Respuesta:** Basandome en el siguiente producto: [PRODUCTO](https://www.mercadoactual.es/ordenador-servidor-lenovo-thinkserver-ts150.html?colabG=2&gclid=Cj0KCQjwgIPOBRDnARIsAHA1X3Qxoynd-fEG2KhrXhrGdCtXhJHR4-gI4Dwp9ZpY6HJu6hy5Z1ogTQsaAq31EALw_wcB) , el cual cuesta: 393,37€ y 310,76 sin iva.Y he hecho los siguientes cálculos: 

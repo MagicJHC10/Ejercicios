@@ -45,7 +45,15 @@ Ejercicio 3: En general, cualquier ordenador con menos de 5 o 6 años tendrá es
 
 Ejercicio 4: 1-Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. 2-Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
-**Respuesta:**
+**Respuesta:** 1-Ejecutando la orden "kvm-ok" nos da como resultado:
+
+INFO: /dev/kvm exists
+KVM acceleration can be used
+
+Lo cual nos indica que si tenemos el nucleo instalado.
+
+2-En cuanto al hipervisor, ya tengo instalado VirtualBox.
+
 
 
 

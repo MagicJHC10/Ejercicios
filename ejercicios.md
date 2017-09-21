@@ -38,3 +38,15 @@ Si usamos el 1%:
 Si usamos el 10%:
  * Dedicado: No podemos usar solo el 10% --> 1139,88€
  * Virtual: 2389*0,1=238,98€
+
+Ejercicio 3: En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags.¿Qué modelo de procesador es?¿Qué aparece como salida de ese orden? Si usas una máquina virtual,¿qué resultado da?¿Y en una Raspberry Pi o,si tienes acceso, el procesador del móvil?
+
+**Respuesta:** Usamos la siguiente orden: "cat /proc/cpuinfo" y nos aparece información sobre el procesador(tipo,marca,rendimiento...). En concreto el modelo de procesador es: Intel(R) Core(TM) i3-2328M CPU @ 2.20GHz.
+
+Ejercicio 4: 1-Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. 2-Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+
+**Respuesta:**
+
+
+
+

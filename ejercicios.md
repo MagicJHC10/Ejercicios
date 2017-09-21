@@ -52,7 +52,7 @@ KVM acceleration can be used
 
 Lo cual nos indica que si tenemos el nucleo instalado.
 
-2-En cuanto al hipervisor, ya tengo instalado VirtualBox.
+2- En cuanto al hipervisor, ya tengo instalado VirtualBox.
 
 
 

@@ -1,2 +1,2 @@
 # Ejercicios
-Repositorio para la asignatura de IV
+Repositorio para los ejercicios propùestos en la asignatura de IV

@@ -27,3 +27,10 @@ def elevadoEnteros(base,exponente):
 if __name__ == '__main__':
 
     unittest.main()
+
+Ejercicio 2:
+
+Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).
+
+**Respuesta:** Lo que se pide , lo he hecho en mi proyecto y es algo parecido a lo que hago en el ejercicio anterior.
+

@@ -68,7 +68,7 @@ Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas e
 
 ![ej6](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/ej6.png)
 
-Sin embargo, en un archivo con más código, en el que tenemos funciones , python3 tiene incompatibilidades, no asá python2.7
+Sin embargo, en un archivo con más código, en el que tenemos funciones , python3 tiene incompatibilidades, no así python2.7
 
 ![ej6-1](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/ej6-1.png)
 

@@ -45,3 +45,13 @@ Convertir los tests unitarios anteriores con assert a programas de test y ejecut
 Y si lo ejecutamos con pocha:
 
 ![3IV](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/3IV.png)
+
+Ejercicio 4: 
+
+Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
+
+**Respuesta:** En este ejercicio vamos a ejecutar la orden: `sudo apt-get install virtualenv python-virtualenv` para así obtener virtualend, despues para el resto haríamos lo siguiente, para instalar una version de python desde virtualenv:
+
+![4-1](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/4-1.png)
+
+

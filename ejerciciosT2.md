@@ -54,4 +54,11 @@ Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lengua
 
 ![4-1](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/4-1.png)
 
+Ejercicio 5: 
+
+Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos.
+
+**Respuesta:** En este caso, decir que lo que nos pide el ejercicio ya lo hacemos en nuestro [Proyecto](https://github.com/MagicJHC10/Proyecto-IV)  (funcionalidades del mismo estilo)
+
+
 

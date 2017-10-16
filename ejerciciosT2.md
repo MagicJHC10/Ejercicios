@@ -34,3 +34,13 @@ Para la aplicación que se está haciendo, escribir una serie de aserciones y pr
 
 **Respuesta:** Lo que se pide , lo he hecho en mi proyecto y es algo parecido a lo que hago en el ejercicio anterior.
 
+Ejercicio 3:
+
+Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta.
+
+**Respuesta:** En este ejercicio hemos usado pocha para que nos ayude a ejecutar con mayor facilidad los tests para nuestras funciones.
+![pro](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/pro.png)
+ 
+Y si lo ejecutamos con pocha:
+
+![3IV](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/3IV.png)

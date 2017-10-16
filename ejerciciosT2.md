@@ -39,6 +39,7 @@ Ejercicio 3:
 Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta.
 
 **Respuesta:** En este ejercicio hemos usado pocha para que nos ayude a ejecutar con mayor facilidad los tests para nuestras funciones.
+
 ![pro](https://github.com/MagicJHC10/Ejercicios/blob/master/IV_Fotos/pro.png)
  
 Y si lo ejecutamos con pocha:
